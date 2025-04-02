@@ -2,7 +2,7 @@
 
 This repository contains a LaTeX template formatted according to the thesis requirements of the Department of Biostatistics at Boston University. It includes built-in support for BU’s formatting rules, commonly-used LaTeX packages, and helper files to streamline the writing of a doctoral dissertation.
 
-The BU-specific LaTeX style is adapted from an MIT style file by Stephen Gildea, modified for BU by Paolo Gaudiano, Jonathan Polimeni, Janusz Konrad, Cameron Morland, Karen Yeats, and most recently updated by Hanna Gerlovin in 2018.
+The BU-specific LaTeX style is adapted from an MIT style file by **Stephen Gildea**, modified for BU by **Paolo Gaudiano**, **Jonathan Polimeni**, **Janusz Konrad**, **Cameron Morland**, **Karen Yeats**, and most recently updated by **Hanna Gerlovin** in 2018.
 
 ---
 
@@ -38,7 +38,7 @@ The BU-specific LaTeX style is adapted from an MIT style file by Stephen Gildea,
 - **Automatic title, abstract, approval pages** using BU conventions
 - **Appendix and symbols support**
 - **Curriculum Vitae** section at the end
-- APA-style bibliography with URLs and access dates
+- **APA-style bibliography** with URLs and access dates
 
 ---
 
