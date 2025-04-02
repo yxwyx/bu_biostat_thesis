@@ -1,0 +1,12 @@
+\chapter{Special Stuff}
+\label{AppA}
+
+\section{Appendix Tables}
+If you plan on using tables and/or figures in an Appendix, make sure that you use \verb+\chapter{}+ instead of \verb+\chapter*{}+. This is to ensure that your figures and tables that are included in the Appendix have a leading letter for enumeration. 
+
+\begin{figure}[H] %"H" says to put the figure in that exact location
+\centering
+\includegraphics[width=0.7\textwidth]{./figures/proflike_example}
+\caption[External figure]{Caption line below the figure.} % Caption line pasted below puts \includegraphics[]{} the caption below the figure. 
+\label{fig:proflike}
+\end{figure}
